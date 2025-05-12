@@ -8,7 +8,7 @@ public class Lab014_Constants {
         final int b =15;
         // Value of final cannot be changed
 
-        b = 15 +9;
+       // b = 15 +9; will show error on this line
 
         System.out.println(b);
     }
