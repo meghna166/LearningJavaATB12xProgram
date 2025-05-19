@@ -19,6 +19,6 @@ public class Lab_016_Task01 {
 
 
 
-
+        System.exit(0);
     }
 }
