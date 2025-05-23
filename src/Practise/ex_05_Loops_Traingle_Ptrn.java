@@ -1,6 +1,6 @@
 package Practise;
 
-public class ex_05_Loops {
+public class ex_05_Loops_Traingle_Ptrn {
     public static void main(String[] args) {
         //Print a Triangle Pattern
         for(int i = 1; i<=5;i++){

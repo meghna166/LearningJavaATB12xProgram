@@ -1,6 +1,6 @@
 package Practise;
 
-public class ex_07_Loops {
+public class ex_07_Loops_No_Pyramid {
     public static void main(String[] args) {
         // Print Number Pyramid
         for(int i=1 ;i<6  ;i++  ){

@@ -1,6 +1,6 @@
 package Practise;
 
-public class ex_02_Loops {
+public class ex_02_Loops_Print_Even {
     public static void main(String[] args) {
         //Print all even numbers between 2 and 20.
 

@@ -1,6 +1,6 @@
 package Practise;
 
-public class ex_08_Loops {
+public class ex_08_Loops_Sum_Even {
     public static void main(String[] args) {
         //Print the sum of even numbers from 1 to 50.
       int  sum = 0;
